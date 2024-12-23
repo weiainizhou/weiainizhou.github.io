@@ -2,10 +2,485 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 办公软件仓库</title>
-        <link>http://localhost:27363/post/</link>
+        <link>https://weiainizhou.github.io/post/</link>
         <description>Recent content in Posts on 办公软件仓库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Bei Yi</copyright><atom:link href="http://localhost:27363/post/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Bei Yi</copyright>
+        <lastBuildDate>Mon, 23 Dec 2024 19:49:42 +0800</lastBuildDate><atom:link href="https://weiainizhou.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Endnote 21.5 安装教程</title>
+        <link>https://weiainizhou.github.io/p/endnote-21.5-%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Mon, 23 Dec 2024 19:49:42 +0800</pubDate>
+        
+        <guid>https://weiainizhou.github.io/p/endnote-21.5-%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;code&gt;EndNote 21&lt;/code&gt; 是一款文献管理软件。它能收集和导入多种来源、格式的文献，可从诸多数据库自动提取信息。可以有效管理和组织文献，如分类、分组、快速搜索，还有标签功能方便整理。&lt;/p&gt;
+&lt;p&gt;能进行文献分析，助力了解研究现状和趋势。在写作时能与文字处理软件协作，正确插入引用并生成规范参考文献格式。支持团队协作共享，账号共享数量有所增加。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;&lt;strong&gt;注意事项&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;⏩:&lt;code&gt;测试环境&lt;/code&gt; &lt;code&gt;win10/win11&lt;/code&gt; &lt;em&gt;64位操作系统&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;⏩:&lt;code&gt;解压文件前&lt;/code&gt;：&lt;em&gt;必须要先关闭“所有杀毒软件(部分电脑自带的“McAfee”也要关闭）、防火墙、Windows Defender”，否则可能会被杀毒软件误杀清除程序或致无法正常运行。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;⏩:&lt;em&gt;可直接安装火绒杀毒接管&lt;/em&gt; &lt;code&gt;Defender&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件测试&#34;&gt;&lt;strong&gt;软件测试&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;1、右键解压&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;2、进入解压后的文件&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750854-1.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;3、右键管理员身份运行&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-2.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;4、点击&lt;code&gt;Next&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-3.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;5、如图勾选&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-4.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;6、点击&lt;code&gt;Next&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-5.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;7、勾选&lt;code&gt;I accept...&lt;/code&gt; &lt;code&gt;Next&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-6.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;8、选择&lt;code&gt;Typical&lt;/code&gt; 点击&lt;code&gt;Next&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-7.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;9、如图顺序即可&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-8.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;10、点击&lt;code&gt;Next&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-9.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;11、软件安装完成 点击&lt;code&gt;Fnish&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-10.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;12、只需要英文版本的进入&lt;code&gt;英文&lt;/code&gt;文件&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750855-11.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;13、复制&lt;code&gt;EndNote.exe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-12.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;14、右键粘贴到此路径 &lt;em&gt;注意这个是软件安装的路径 根据自己安装的路径来，最好全程跟着我操作&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;D:\Program Files (x86)\EndNote 21
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-13.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;15、点击替换&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-14.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;16、将程序移动到桌面&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-15.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;17、双击桌面图标&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-16.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;18、勾选如图&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-17.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;19、点击 &lt;code&gt;Ianore This&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-18.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;20、点击&lt;code&gt;Create a new library&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-19.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;21、点击保存&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-20.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;22、软件安装完成&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-21.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中文汉化教程&#34;&gt;&lt;strong&gt;中文汉化教程&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;1、进入中文文件&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-22.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;2、复制Endnote.exe&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-23.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;4、右键粘贴到此路径 &lt;em&gt;注意这个是软件安装的路径 根据自己安装的路径来，最好全程跟着我操作&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;D:\Program Files (x86)\EndNote 21
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-13.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;5、点击替换&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-24.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;6、双击桌面图片&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750856-25.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;8、如图弹出这个点击&lt;code&gt;Activate&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-26.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;9、右键运行&lt;code&gt;Keygen.exe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-27.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;10、选择&lt;code&gt;Single&lt;/code&gt; 点击&lt;code&gt;Generate&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-28.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;11、将生成的神秘码复制&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-29.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;12、前面两个随机填写 后面的填入生成的神秘码&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-30.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;13、点击我接受 下一步&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-31.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;14、点击确定&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-32.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;15、安装完成&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-33.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;常见问题&#34;&gt;&lt;strong&gt;常见问题&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;1、使用&lt;code&gt;PuBmed&lt;/code&gt;无法连接！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-34.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;2、右键&lt;code&gt;网络和Internet设置&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-35.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;3、点击&lt;code&gt;高级网络设置&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-36.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;4、点击 &lt;code&gt;internet&lt;/code&gt; 选项 点击&lt;code&gt;高级--圈起来的不勾选图一--下面圈起来的勾选--应用--确定&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-37.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;5、可以使用&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://weiainizhou.github.io/my-first-post/640-1734954750857-38.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
